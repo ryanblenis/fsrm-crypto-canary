@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+	<Root >
+		<Header DatabaseVersion = '2.0' ></Header>
+		<QuotaTemplates ></QuotaTemplates>
+		<DatascreenTemplates ></DatascreenTemplates>
+		<FileGroups >
+			<FileGroup Name = 'Cryptolocker%sCanary' Id = '{b4ee4b61-a07c-42ac-8355-839c4fda8f8b}' Description = '' >
+			<Members >
+				<Pattern PatternValue = '*decrypt*.*' ></Pattern>
+				<Pattern PatternValue = '*restore_files*.*' ></Pattern>
+				<Pattern PatternValue = 'Recovery+*.*' ></Pattern>
+				<Pattern PatternValue = 'help_your_files*.*' ></Pattern>
+				<Pattern PatternValue = 'install_tor*.*' ></Pattern>
+				<Pattern PatternValue = '*.ecc' ></Pattern>
+				<Pattern PatternValue = '*.ezz' ></Pattern>
+				<Pattern PatternValue = '*.exx' ></Pattern>
+				<Pattern PatternValue = '*.zzz' ></Pattern>
+				<Pattern PatternValue = '*.xyz' ></Pattern>
+				<Pattern PatternValue = '*.aaa' ></Pattern>
+				<Pattern PatternValue = '*.abc' ></Pattern>
+				<Pattern PatternValue = '*.ccc' ></Pattern>
+				<Pattern PatternValue = '*.vvv' ></Pattern>
+				<Pattern PatternValue = '*.xxx' ></Pattern>
+				<Pattern PatternValue = '*.ttt' ></Pattern>
+				<Pattern PatternValue = '*.micro' ></Pattern>
+				<Pattern PatternValue = '*.encrypted' ></Pattern>
+				<Pattern PatternValue = '*.locked' ></Pattern>
+				<Pattern PatternValue = '*.crypto' ></Pattern>
+				<Pattern PatternValue = '*_crypt' ></Pattern>
+				<Pattern PatternValue = '*.crinf' ></Pattern>
+				<Pattern PatternValue = '*.r5a' ></Pattern>
+				<Pattern PatternValue = '*.XRNT' ></Pattern>
+				<Pattern PatternValue = '*.XTBL' ></Pattern>
+				<Pattern PatternValue = '*.crypt' ></Pattern>
+				<Pattern PatternValue = '*.R16M01D05' ></Pattern>
+				<Pattern PatternValue = '*.pzdc' ></Pattern>
+				<Pattern PatternValue = '*.good' ></Pattern>
+				<Pattern PatternValue = '*.LOL!' ></Pattern>
+				<Pattern PatternValue = '*.OMG!' ></Pattern>
+				<Pattern PatternValue = '*.RDM' ></Pattern>
+				<Pattern PatternValue = '*.RRK' ></Pattern>
+				<Pattern PatternValue = '*.encryptedRSA' ></Pattern>
+				<Pattern PatternValue = '*.crjoker' ></Pattern>
+				<Pattern PatternValue = '*.EnCiPhErEd' ></Pattern>
+				<Pattern PatternValue = '*.LeChiffre' ></Pattern>
+				<Pattern PatternValue = '*.keybtc@inbox_com' ></Pattern>
+				<Pattern PatternValue = '*.0x0' ></Pattern>
+				<Pattern PatternValue = '*.bleep' ></Pattern>
+				<Pattern PatternValue = '*.1999' ></Pattern>
+				<Pattern PatternValue = '*.vault' ></Pattern>
+				<Pattern PatternValue = '*.HA3' ></Pattern>
+				<Pattern PatternValue = '*.toxcrypt' ></Pattern>
+				<Pattern PatternValue = '*.magic' ></Pattern>
+				<Pattern PatternValue = '*.SUPERCRYPT' ></Pattern>
+				<Pattern PatternValue = '*.CTBL' ></Pattern>
+				<Pattern PatternValue = '*.CTB2' ></Pattern>
+				<Pattern PatternValue = '*.locky' ></Pattern>
+				<Pattern PatternValue = 'HELPDECRYPT.TXT' ></Pattern>
+				<Pattern PatternValue = 'HELP_YOUR_FILES.TXT' ></Pattern>
+				<Pattern PatternValue = 'HELP_TO_DECRYPT_YOUR_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'RECOVERY_KEY.txt' ></Pattern>
+				<Pattern PatternValue = 'HELP_RESTORE_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'HELP_RECOVER_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'HELP_TO_SAVE_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'DecryptAllFiles.txt' ></Pattern>
+				<Pattern PatternValue = 'DECRYPT_INSTRUCTIONS.TXT' ></Pattern>
+				<Pattern PatternValue = 'INSTRUCCIONES_DESCIFRADO.TXT' ></Pattern>
+				<Pattern PatternValue = 'How_To_Recover_Files.txt' ></Pattern>
+				<Pattern PatternValue = 'YOUR_FILES.HTML' ></Pattern>
+				<Pattern PatternValue = 'YOUR_FILES.url' ></Pattern>
+				<Pattern PatternValue = 'encryptor_raas_readme_liesmich.txt' ></Pattern>
+				<Pattern PatternValue = 'Help_Decrypt.txt' ></Pattern>
+				<Pattern PatternValue = 'DECRYPT_INSTRUCTION.TXT' ></Pattern>
+				<Pattern PatternValue = 'HOW_TO_DECRYPT_FILES.TXT' ></Pattern>
+				<Pattern PatternValue = 'ReadDecryptFilesHere.txt' ></Pattern>
+				<Pattern PatternValue = 'Coin.Locker.txt' ></Pattern>
+				<Pattern PatternValue = '_secret_code.txt' ></Pattern>
+				<Pattern PatternValue = 'About_Files.txt' ></Pattern>
+				<Pattern PatternValue = 'Read.txt' ></Pattern>
+				<Pattern PatternValue = 'ReadMe.txt' ></Pattern>
+				<Pattern PatternValue = 'DECRYPT_ReadMe.TXT' ></Pattern>
+				<Pattern PatternValue = 'DecryptAllFiles.txt' ></Pattern>
+				<Pattern PatternValue = 'FILESAREGONE.TXT' ></Pattern>
+				<Pattern PatternValue = 'IAMREADYTOPAY.TXT' ></Pattern>
+				<Pattern PatternValue = 'HELLOTHERE.TXT' ></Pattern>
+				<Pattern PatternValue = 'READTHISNOW!!!.TXT' ></Pattern>
+				<Pattern PatternValue = 'SECRETIDHERE.KEY' ></Pattern>
+				<Pattern PatternValue = 'IHAVEYOURSECRET.KEY' ></Pattern>
+				<Pattern PatternValue = 'SECRET.KEY' ></Pattern>
+				<Pattern PatternValue = 'HELPDECYPRT_YOUR_FILES.HTML' ></Pattern>
+				<Pattern PatternValue = 'help_decrypt_your_files.html' ></Pattern>
+				<Pattern PatternValue = 'HELP_TO_SAVE_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'RECOVERY_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'RECOVERY_FILE.TXT' ></Pattern>
+				<Pattern PatternValue = 'RECOVERY_FILE*.txt' ></Pattern>
+				<Pattern PatternValue = 'HowtoRESTORE_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'HowtoRestore_FILES.txt' ></Pattern>
+				<Pattern PatternValue = 'howto_recover_file.txt' ></Pattern>
+				<Pattern PatternValue = 'restorefiles.txt' ></Pattern>
+				<Pattern PatternValue = 'howrecover+*.txt' ></Pattern>
+				<Pattern PatternValue = '_how_recover.txt' ></Pattern>
+				<Pattern PatternValue = 'recoveryfile*.txt' ></Pattern>
+				<Pattern PatternValue = 'recoverfile*.txt' ></Pattern>
+				<Pattern PatternValue = 'recoveryfile*.txt' ></Pattern>
+				<Pattern PatternValue = 'Howto_Restore_FILES.TXT' ></Pattern>
+				<Pattern PatternValue = 'help_recover_instructions+*.txt' ></Pattern>
+				<Pattern PatternValue = '_Locky_recover_instructions.txt' ></Pattern>
+			</Members>
+			<NonMembers ></NonMembers>
+		</FileGroup>
+	</FileGroups>
+</Root>
